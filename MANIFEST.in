@@ -1,0 +1,3 @@
+include mediaheart/config/deployment.ini_tmpl
+recursive-include mediaheart/public *
+recursive-include mediaheart/templates *
